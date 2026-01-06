@@ -1,0 +1,16 @@
+const character = "Legolas";
+console.log(character);
+let name = "Legolas";
+console.log(character);
+name = "Gimli";
+console.log(name);
+let x = 10000;
+console.log(x);
+let y = 100000.025;
+console.log(y);
+let z = -10000;
+console.log(z);
+let vraie = true;
+console.log(vraie);
+let faux = false;
+console.log(faux);
